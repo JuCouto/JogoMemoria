@@ -47,6 +47,7 @@ const emojis = [
     console.log(openCards);
   }
   
+  // condição de vitória do jogo.
   function checkMatch() {
     if (openCards[0].innerHTML === openCards[1].innerHTML) {
       openCards[0].classList.add("boxMatch");
