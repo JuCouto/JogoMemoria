@@ -4,7 +4,8 @@
  <div align="center">
 <img src="https://github.com/JuCouto/JogoMemoria/assets/100319483/0f302e60-97e4-4805-98bb-c83dcdc50e83" width="350em" height="400em" alt="Descrição da imagem" ></div>
 
-
+### Jogo publicado:
+https://jucouto.github.io/JogoMemoria/
 
 <h3 align="left">Tecnologias utilizadas</h3>
 
